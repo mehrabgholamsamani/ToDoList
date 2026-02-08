@@ -23,7 +23,7 @@ body{
   padding: 17px;
   display: flex;
   flex-direction: column;
-  gap: 15px;
+  gap: 13px;
   box-shadow:
     0 20px 50px rgba(0,0,0,0.08),
     0 6px 18px rgba(0,0,0,0.06);
