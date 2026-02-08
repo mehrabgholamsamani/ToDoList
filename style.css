@@ -75,7 +75,7 @@ body{
 .task-holder, .finishedTasks{
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 11px;
 }
 
 .card{
