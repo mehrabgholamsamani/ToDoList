@@ -58,7 +58,7 @@ body{
   background: none;
   border: none;
   cursor: pointer;
-  padding: 11px;
+  padding: 10px;
   border-radius: 12px;
   color: #111827;
   transition: transform 0.15s ease, background 0.15s ease, opacity 0.15s ease;
