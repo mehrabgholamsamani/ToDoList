@@ -16,7 +16,7 @@ body{
 
 .container{
   width: min(720px, calc(100% - 24px));
-  margin: 28px 0;
+  margin: 29px 0;
   background: #ffffff;
   border: 1px solid rgba(0,0,0,0.06);
   border-radius: 18px;
